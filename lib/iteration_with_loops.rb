@@ -13,6 +13,6 @@ while row_index < src.count do
   end
   row_index += 1
 end
-new_array.join(' ')
+new_array.join('')
 new_array
 end
